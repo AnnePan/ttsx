@@ -8,4 +8,5 @@ class UserInfo(models.Model):
     uPass = models.CharField(max_length=50)
     uSix = models.NullBooleanField(default=None)
 
+# aaa
 
